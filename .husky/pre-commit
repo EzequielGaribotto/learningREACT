@@ -1,0 +1,4 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# Aquí puedes agregar otros comandos que quieras ejecutar en el pre-commit
